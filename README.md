@@ -1,4 +1,4 @@
-# AndroidNote
+# AndroidIOC
 -------------------------------------------------------
 Java SE5内置了三种注解 ***@Override***,覆盖超类中的方法。***@Deprecated***，不赞成使用代码（过时）编译器会发出警告。***@SUppressWarnings***关闭编译器发出的警告
 
